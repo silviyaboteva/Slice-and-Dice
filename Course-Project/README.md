@@ -1,4 +1,4 @@
-# Requirements for the "Web front-end develeopment" course project
+# Requirements for the "Web front-end development" course project
 
 This document describes the final project assignment for Telerik Academy students in "Web front-end develeopment" course
 
